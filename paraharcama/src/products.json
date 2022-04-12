@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": "0.5",
+        "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07124238/07124238-be7324-1650x1650.jpg"
+    },
+    { 
+        "id": 2,
+        "title": "Kola",
+        "price": "6",
+        "image": "https://cdn.dsmcdn.com/ty28/product/media/images/20201127/18/33097970/58233896/1/1_org_zoom.jpg"
+
+    },
+    { 
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": "400",
+        "image": "https://cdn.dsmcdn.com/mnresize/500/-/ty151/product/media/images/20210729/15/113722458/118106876/1/1_org.jpg"
+
+    },
+    { 
+        "id": 4,
+        "title": "Araba",
+        "price": "20000",
+        "image": "https://productimages.hepsiburada.net/s/33/1500/10417706991666.jpg"
+
+    }
+
+]
